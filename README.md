@@ -1,0 +1,2 @@
+# SpringCloudZipkinServer
+SpringCloud服务追踪组件zipkin，Spring Cloud Sleuth集成了zipkin组件。
